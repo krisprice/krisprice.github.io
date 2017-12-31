@@ -1,3 +1,8 @@
+---
+layout: post
+title: Testing this out
+---
+
 # Testing
 
 ## Heading
